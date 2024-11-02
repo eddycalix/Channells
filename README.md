@@ -5,7 +5,7 @@ http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/71854.ts
 #EXTINF:-1 tvg-name="GLOBO RJ" tvg-logo="https://mondrian.claro.com.br/channels/default/globo.png" group-title="ABERTOS",GLOBO RJ
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/131182.ts
 #EXTINF:-1 tvg-name="REDE TV" tvg-logo="https://mondrian.claro.com.br/brands/channels/redetv!.png" group-title="ABERTOS",REDE TV!
-http://appleuhd.us:80/live/kt4rvb6r/Dd5488rtt/69.ts
+http://7online.xyz:80/live/leandrobr8923/gahe9273/64619.ts
 #EXTINF:-1 tvg-name="BAND" tvg-logo="https://mondrian.claro.com.br/brands/channels/band.png" group-title="ABERTOS",BANDEIRANTES
 http://appleuhd.us:80/live/kt4rvb6r/Dd5488rtt/321.ts
 #EXTINF:-1 tvg-name="SBT " tvg-logo="https://mondrian.claro.com.br/brands/channels/sbt.png" group-title="ABERTOS",SBT
