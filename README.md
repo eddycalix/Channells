@@ -11,7 +11,7 @@ http://7online.xyz:80/live/leandrobr8923/gahe9273/125416.ts
 #EXTINF:-1 tvg-name="SBT " tvg-logo="https://mondrian.claro.com.br/brands/channels/sbt.png" group-title="ABERTOS",SBT
 http://7online.xyz:80/live/leandrobr8923/gahe9273/7669.ts
 #EXTINF:-1 tvg-name="RECORD" tvg-logo="https://mondrian.claro.com.br/channels/default/record-tv.png" group-title="ABERTOS",REDE RECORD
-http://appleuhd.us:80/live/kt4rvb6r/Dd5488rtt/345.ts
+http://7online.xyz:80/live/leandrobr8923/gahe9273/18594.ts
 #EXTINF:-1 tvg-name="FUTURA" tvg-logo="https://mondrian.claro.com.br/channels/default/futura.png" group-title="ABERTOS",FUTURA 
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/71965.ts
 #EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-logo="https://mondrian.claro.com.br/channels/default/history-channel.png" group-title="CULTURA",HISTORY CHANNEL
