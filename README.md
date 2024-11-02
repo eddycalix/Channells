@@ -114,7 +114,7 @@ http://7online.xyz:80/live/leandrobr8923/gahe9273/22405.ts
 #EXTINF:-1 tvg-name="TV RA TIM BUM" tvg-logo="https://www.oi.com.br/publicV2/channels/tv-ra-tim-bum.png" group-title="INFANTIL",TV RA TIM BUM 
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/72414.ts
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE" tvg-logo="https://www.oi.com.br/publicV2/channels/mtv-live.png" group-title="MUSICA",MTV LIVE
-http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/191332.ts
+http://7online.xyz:80/live/leandrobr8923/gahe9273/317840.ts
 #EXTINF:-1 tvg-name="MTV 00s" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/08/14110659/MTV-00s-768x576.jpg" group-title="MUSICA",MTV 00s
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/191326.ts
 #EXTINF:-1 tvg-name="A&E" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/AE-Logo-500x281.png" group-title="VARIEDADES",A&E
