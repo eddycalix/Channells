@@ -14,18 +14,12 @@ http://7online.xyz:80/live/leandrobr8923/gahe9273/7669.ts
 http://appleuhd.us:80/live/kt4rvb6r/Dd5488rtt/345.ts
 #EXTINF:-1 tvg-name="FUTURA" tvg-logo="https://mondrian.claro.com.br/channels/default/futura.png" group-title="ABERTOS",FUTURA 
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/71965.ts
- 
- 
- 
 #EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-logo="https://mondrian.claro.com.br/channels/default/history-channel.png" group-title="CULTURA",HISTORY CHANNEL
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/72149.ts
 #EXTINF:-1 tvg-name="HISTORY CHANNEL2" tvg-logo="https://mondrian.claro.com.br/brands/channels/history-channel-2.png" group-title="CULTURA",HISTORY CHANNEL2
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/72109.ts
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://mondrian.claro.com.br/brands/channels/national-geographic.png" group-title="CULTURA",NATIONAL GEOGRAPHIC
 http://178.162.225.151:2082/live/Xplus-V3-WmLPR2o4XL/wYCyFdWHG9/88.ts
- 
- 
- 
 #EXTINF:-1 tvg-name="BAND SPORTS" tvg-logo="https://mondrian.claro.com.br/brands/channels/band-sports.png" group-title="ESPORTES",BAND SPORTS
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/71804.ts
 #EXTINF:-1 tvg-name="COMBATE" tvg-logo="https://mondrian.claro.com.br/brands/channels/combate.png" group-title="ESPORTES",COMBATE
@@ -55,16 +49,12 @@ http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/72260.ts
 #EXTINF:-1 tvg-name="PREMIERE 8" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.png" group-title="ESPORTES",PREMIERE 8
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/180160.ts
 #EXTINF:-1 tvg-name="FOX SPORTS 2" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_FOXSPORTS2.png" group-title="ESPORTES",FOX SPORTS 2
- 
 #EXTINF:-1 tvg-name="SPORTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="ESPORTES",SPORTV 1
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/131132.ts
 #EXTINF:- tvg-name="SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/SporTV_2_logo_2016.png" group-title="ESPORTES",SPORTV 2 
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/72324.ts
 #EXTINF:-1 tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/a/ae/20120214012913%21SporTV_3_logo_2011.png" group-title="ESPORTES",SPORTV 3
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/131108.ts
- 
- 
- 
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png" group-title="FILMES E SERIES",AXN 
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/71784.ts
 #EXTINF:-1 tvg-name="COMEDY CENTRAL" tvg-logo="https://www.oi.com.br/publicV2/channels/comedy-central.png" group-title="FILMES E SERIES",COMEDY CENTRAL 
@@ -105,8 +95,6 @@ http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/72356.ts
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/72360.ts
 #EXTINF:-1 tvg-name="TELECINE CULT" tvg-logo="https://www.claro.com.br/files/104379/266x177/a3a3e85822/img-telecine-cult.jpg" group-title="FILMES",TELECINE CULT 
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/72352.ts
- 
- 
 #EXTINF:-1 tvg-name="CARTOONITO" tvg-logo="https://www.oi.com.br/publicV2/channels/cartoonito_com_nome.png" group-title="INFANTIL",CARTOONITO
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/71814.ts
 #EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://www.oi.com.br/publicV2/channels/cartoon-network.png" group-title="INFANTIL",CARTOON NETWORK
@@ -122,17 +110,13 @@ http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/191383.ts
 #EXTINF:- tvg-name="NICK JR" tvg-logo="https://www.oi.com.br/publicV2/channels/nick-jr.png" group-title="INFANTIL",NICK JR
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/72203.ts
 #EXTINF:-1 tvg-name="TOONCAST" tvg-logo="https://www.oi.com.br/publicV2/channels/toon-cast.png" group-title="INFANTIL",TOONCAST 
-http://vis.blue:80/live/5016942/1825412/702.ts
+http://vis.blue:80/live/6509349/8335779/704.ts
 #EXTINF:-1 tvg-name="TV RA TIM BUM" tvg-logo="https://www.oi.com.br/publicV2/channels/tv-ra-tim-bum.png" group-title="INFANTIL",TV RA TIM BUM 
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/72414.ts
- 
- 
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE" tvg-logo="https://www.oi.com.br/publicV2/channels/mtv-live.png" group-title="MUSICA",MTV LIVE
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/191332.ts
 #EXTINF:-1 tvg-name="MTV 00s" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/08/14110659/MTV-00s-768x576.jpg" group-title="MUSICA",MTV 00s
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/191326.ts
- 
- 
 #EXTINF:-1 tvg-name="A&E" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/AE-Logo-500x281.png" group-title="VARIEDADES",A&E
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/71762.ts
 #EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://www.oi.com.br/publicV2/channels/animal-planet.png" group-title="VARIEDADES",ANIMAL PLANET
