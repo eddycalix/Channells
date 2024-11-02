@@ -110,7 +110,7 @@ http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/191383.ts
 #EXTINF:- tvg-name="NICK JR" tvg-logo="https://www.oi.com.br/publicV2/channels/nick-jr.png" group-title="INFANTIL",NICK JR
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/72203.ts
 #EXTINF:-1 tvg-name="TOONCAST" tvg-logo="https://www.oi.com.br/publicV2/channels/toon-cast.png" group-title="INFANTIL",TOONCAST 
-http://vis.blue:80/live/6509349/8335779/704.ts
+http://7online.xyz:80/live/leandrobr8923/gahe9273/22405.ts
 #EXTINF:-1 tvg-name="TV RA TIM BUM" tvg-logo="https://www.oi.com.br/publicV2/channels/tv-ra-tim-bum.png" group-title="INFANTIL",TV RA TIM BUM 
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/72414.ts
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE" tvg-logo="https://www.oi.com.br/publicV2/channels/mtv-live.png" group-title="MUSICA",MTV LIVE
