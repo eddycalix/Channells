@@ -19,7 +19,7 @@ http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/72149.ts
 #EXTINF:-1 tvg-name="HISTORY CHANNEL2" tvg-logo="https://mondrian.claro.com.br/brands/channels/history-channel-2.png" group-title="CULTURA",HISTORY CHANNEL2
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/72109.ts
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://mondrian.claro.com.br/brands/channels/national-geographic.png" group-title="CULTURA",NATIONAL GEOGRAPHIC
-http://178.162.225.151:2082/live/Xplus-V3-WmLPR2o4XL/wYCyFdWHG9/88.ts
+http://7online.xyz:80/live/leandrobr8923/gahe9273/183640.ts
 #EXTINF:-1 tvg-name="BAND SPORTS" tvg-logo="https://mondrian.claro.com.br/brands/channels/band-sports.png" group-title="ESPORTES",BAND SPORTS
 http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/71804.ts
 #EXTINF:-1 tvg-name="COMBATE" tvg-logo="https://mondrian.claro.com.br/brands/channels/combate.png" group-title="ESPORTES",COMBATE
