@@ -7,7 +7,7 @@ http://84.16.252.211:2082/live/Xplus-V3-4gXUA99Pd9/6VEsobvo3q/504.ts
 #EXTINF:-1 tvg-name="REDE TV" tvg-logo="https://mondrian.claro.com.br/brands/channels/redetv!.png" group-title="ABERTOS",REDE TV!
 http://84.16.252.211:2082/live/Xplus-V3-4gXUA99Pd9/6VEsobvo3q/532.ts
 #EXTINF:-1 tvg-name="BAND RIO" tvg-logo="[https://mondrian.claro.com.br/brands/channels/redetv!.png](https://pbs.twimg.com/profile_images/809476746663907328/DQiQGpWz_400x400.jpg" group-title="ABERTOS",BAND RIO
-https://www.dailymotion.com/cdn/live/video/x95js48.m3u8?sec=FCTtzbwCQwkc6Uj2iF_nCov-htJAgOrhhfEc8tYewCC3XzEWjf4ZeLKNDjgrNpQz-t4d-5t3E5aW-2sinEkhsCPq77QW7v4W2aO3zpUJHfE&dmTs=516662&dmV1st=c4b42083-8861-55ab-4d4b-574d295aa97b
+https://live-b2.cf.dmcdn.net/sec2(mQDqHM4YVB8D3toKRT9iTje80a6LWvUmk5O7fh8V17JlVgDPHPkB6jtQkEcSvfLl8-Ll8SlXNBOahDS1pRLelRPrafoNVJu8PhEF_bA6avyIhjgfgrnswMxdSPOogb4P)/cloud/3/x95js48/s/live-720.m3u8
 #EXTINF:-1 tvg-name="SBT " tvg-logo="https://mondrian.claro.com.br/brands/channels/sbt.png" group-title="ABERTOS",SBT
 http://84.16.252.211:2082/live/Xplus-V3-4gXUA99Pd9/6VEsobvo3q/540.ts
 #EXTINF:-1 tvg-name="RECORD" tvg-logo="https://mondrian.claro.com.br/channels/default/record-tv.png" group-title="ABERTOS",REDE RECORD
