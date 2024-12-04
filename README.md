@@ -6,6 +6,8 @@ http://84.16.252.211:2082/live/Xplus-V3-4gXUA99Pd9/6VEsobvo3q/547.ts
 http://84.16.252.211:2082/live/Xplus-V3-4gXUA99Pd9/6VEsobvo3q/504.ts
 #EXTINF:-1 tvg-name="REDE TV" tvg-logo="https://mondrian.claro.com.br/brands/channels/redetv!.png" group-title="ABERTOS",REDE TV!
 http://84.16.252.211:2082/live/Xplus-V3-4gXUA99Pd9/6VEsobvo3q/532.ts
+#EXTINF:-1 tvg-name="BAND RIO" tvg-logo="[https://mondrian.claro.com.br/brands/channels/redetv!.png](https://pbs.twimg.com/profile_images/809476746663907328/DQiQGpWz_400x400.jpg" group-title="ABERTOS",BAND RIO
+https://cloudflare.cdn.spalla.io/live/01932c70-5e6f-7db5-9b40-882b6aa60f99/s1/playlist-1080p.m3u8
 #EXTINF:-1 tvg-name="SBT " tvg-logo="https://mondrian.claro.com.br/brands/channels/sbt.png" group-title="ABERTOS",SBT
 http://84.16.252.211:2082/live/Xplus-V3-4gXUA99Pd9/6VEsobvo3q/540.ts
 #EXTINF:-1 tvg-name="RECORD" tvg-logo="https://mondrian.claro.com.br/channels/default/record-tv.png" group-title="ABERTOS",REDE RECORD
