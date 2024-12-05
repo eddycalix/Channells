@@ -1,23 +1,23 @@
 #EXTM3U
  
 #EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://mondrian.claro.com.br/channels/default/cultura.png" group-title="ABERTOS",TV CULTURA
-http://84.16.252.211:2082/live/Xplus-V3-4gXUA99Pd9/6VEsobvo3q/547.ts
+http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/18005.ts
 #EXTINF:-1 tvg-name="GLOBO RJ" tvg-logo="https://mondrian.claro.com.br/channels/default/globo.png" group-title="ABERTOS",GLOBO RJ
-http://84.16.252.211:2082/live/Xplus-V3-4gXUA99Pd9/6VEsobvo3q/504.ts
+http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/173917.ts
 #EXTINF:-1 tvg-name="REDE TV" tvg-logo="https://mondrian.claro.com.br/brands/channels/redetv!.png" group-title="ABERTOS",REDE TV!
-http://84.16.252.211:2082/live/Xplus-V3-4gXUA99Pd9/6VEsobvo3q/532.ts
+http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/17973.ts
 #EXTINF:-1 tvg-name="BAND RIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Band_logo_wordmark_2010.png" group-title="ABERTOS",BAND RIO
-	https://live-b2.cf.dmcdn.net/sec2(mQDqHM4YVB8D3toKRT9iTje80a6LWvUmk5O7fh8V17JlVgDPHPkB6jtQkEcSvfLl8-Ll8SlXNBOahDS1pRLelRPrafoNVJu8PhEF_bA6avyIhjgfgrnswMxdSPOogb4P)/cloud/3/x95js48/s/live-480.m3u8
+http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/197037.ts
 #EXTINF:-1 tvg-name="SBT " tvg-logo="https://mondrian.claro.com.br/brands/channels/sbt.png" group-title="ABERTOS",SBT
-http://84.16.252.211:2082/live/Xplus-V3-4gXUA99Pd9/6VEsobvo3q/540.ts
+http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/221910.ts
 #EXTINF:-1 tvg-name="RECORD" tvg-logo="https://mondrian.claro.com.br/channels/default/record-tv.png" group-title="ABERTOS",REDE RECORD
-http://84.16.252.211:2082/live/Xplus-V3-4gXUA99Pd9/6VEsobvo3q/527.ts
+http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/35279.ts
 #EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-logo="https://mondrian.claro.com.br/channels/default/history-channel.png" group-title="CULTURA",HISTORY CHANNEL
-http://84.16.252.211:2082/live/Xplus-V3-4gXUA99Pd9/6VEsobvo3q/82.ts
+http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/18021.ts
 #EXTINF:-1 tvg-name="HISTORY CHANNEL2" tvg-logo="https://mondrian.claro.com.br/brands/channels/history-channel-2.png" group-title="CULTURA",HISTORY CHANNEL2
-http://84.16.252.211:2082/live/Xplus-V3-4gXUA99Pd9/6VEsobvo3q/81.ts
+http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/35104.ts
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://mondrian.claro.com.br/brands/channels/national-geographic.png" group-title="CULTURA",NATIONAL GEOGRAPHIC
-http://84.16.252.211:2082/live/Xplus-V3-4gXUA99Pd9/6VEsobvo3q/88.ts
+http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/17949.ts
 #EXTINF:-1 tvg-name="BAND SPORTS" tvg-logo="https://mondrian.claro.com.br/brands/channels/band-sports.png" group-title="ESPORTES",BAND SPORTS
 http://84.16.252.211:2082/live/Xplus-V3-4gXUA99Pd9/6VEsobvo3q/121.ts
 #EXTINF:-1 tvg-name="COMBATE" tvg-logo="https://mondrian.claro.com.br/brands/channels/combate.png" group-title="ESPORTES",COMBATE
