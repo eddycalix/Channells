@@ -7,7 +7,7 @@ http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/173917.ts
 #EXTINF:-1 tvg-name="REDE TV" tvg-logo="https://mondrian.claro.com.br/brands/channels/redetv!.png" group-title="ABERTOS",REDE TV!
 http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/17973.ts
 #EXTINF:-1 tvg-name="BAND RIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Band_logo_wordmark_2010.png" group-title="ABERTOS",BAND RIO
-http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/197037.ts
+http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/213997.ts
 #EXTINF:-1 tvg-name="SBT " tvg-logo="https://mondrian.claro.com.br/brands/channels/sbt.png" group-title="ABERTOS",SBT
 http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/221910.ts
 #EXTINF:-1 tvg-name="RECORD" tvg-logo="https://mondrian.claro.com.br/channels/default/record-tv.png" group-title="ABERTOS",REDE RECORD
