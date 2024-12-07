@@ -143,4 +143,4 @@ http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/35010.ts
 #EXTINF:-1 tvg-name="VIVA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png" group-title="VARIEDADES",VIVA 
 http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/18295.ts
 #EXTINF:-1 tvg-name="WARNER CHANNEL" tvg-logo="https://www.oi.com.br/publicV2/channels/warner.png" group-title="VARIEDADES",WARNER CHANNEL
-http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/18296.ts
+http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/18018.ts
