@@ -129,7 +129,7 @@ http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/35085.ts
 #EXTINF:- tvg-name="DISCOVERY WORLD" tvg-logo="https://www.oi.com.br/publicV2/channels/discovery-world.png" group-title="VARIEDADES",DISCOVERY WORLD 
 http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/35087.ts
 #EXTINF:-1 tvg-name="DOG TV" tvg-logo="https://www.dogtv.com/hubfs/DOGTVFeatured-1.jpg" group-title="VARIEDADES",DOG TV
-http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/104908.ts
+http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/76923.ts
 #EXTINF:-1 tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="VARIEDADES",E!
 http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/18225.ts
 #EXTINF:-1 tvg-name="GNT" tvg-logo="https://www.oi.com.br/publicV2/channels/gnt.png" group-title="VARIEDADES",GNT 
