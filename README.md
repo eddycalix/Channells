@@ -115,7 +115,7 @@ http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/379814.ts
 #EXTINF:-1 tvg-name="MTV 00s" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/08/14110659/MTV-00s-768x576.jpg" group-title="MUSICA",MTV 00s
 http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/379810.ts
 #EXTINF:-1 tvg-name="A&E" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/AE-Logo-500x281.png" group-title="VARIEDADES",A&E
-https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4ynrjeio3a7e0eml4telo3a7e0eml4t.foo/a1/docs/aie/__index.m3u8?mu3zAQc9HC3GbwJq=29B3Ld8egWKVb58ejkYqJQ&3U1G7qaTxrPbalZnEx=1733634308&sv=56
+http://acsc.cc:80/live/reginaldooliver1/oliverreginaldo/71762.ts
 #EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://www.oi.com.br/publicV2/channels/animal-planet.png" group-title="VARIEDADES",ANIMAL PLANET
 http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/18206.ts
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="https://www.oi.com.br/publicV2/channels/discovery-channel.png" group-title="VARIEDADES",DISCOVERY CHANNEL 
