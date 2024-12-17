@@ -112,14 +112,10 @@ http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/364.ts
 http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/17997.ts
 #EXTINF:-1 tvg-name="TV RA TIM BUM" tvg-logo="https://www.oi.com.br/publicV2/channels/tv-ra-tim-bum.png" group-title="INFANTIL",TV RA TIM BUM 
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/557.ts
-
-
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE" tvg-logo="https://www.oi.com.br/publicV2/channels/mtv-live.png" group-title="MUSICA",MTV LIVE
 http://authxplus-2.xyz:2095/live/Tourobox1-YBzZz3tgVl/iQSbEiDgzj/831.ts
 #EXTINF:-1 tvg-name="MTV 00s" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/08/14110659/MTV-00s-768x576.jpg" group-title="MUSICA",MTV 00s
 http://xvideos.tlonp.in:80/live/58457955/69571169/207329.ts
-
-
 #EXTINF:-1 tvg-name="A&E" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/AE-Logo-500x281.png" group-title="VARIEDADES",A&E
 http://authxplus-2.xyz:2095/live/Tourobox1-YBzZz3tgVl/iQSbEiDgzj/225.ts
 #EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://www.oi.com.br/publicV2/channels/animal-planet.png" group-title="VARIEDADES",ANIMAL PLANET
