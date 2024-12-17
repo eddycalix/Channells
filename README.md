@@ -13,11 +13,11 @@ http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/527.ts
 
 
 #EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-logo="https://mondrian.claro.com.br/channels/default/history-channel.png" group-title="CULTURA",HISTORY CHANNEL
-http://xvideos.tlonp.in:80/live/58457955/69571169/206561.ts
+http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/82.ts
 #EXTINF:-1 tvg-name="HISTORY CHANNEL2" tvg-logo="https://mondrian.claro.com.br/brands/channels/history-channel-2.png" group-title="CULTURA",HISTORY CHANNEL2
-http://xvideos.tlonp.in:80/live/58457955/69571169/206558.ts
+http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/81.ts
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://mondrian.claro.com.br/brands/channels/national-geographic.png" group-title="CULTURA",NATIONAL GEOGRAPHIC
-http://xvideos.tlonp.in:80/live/58457955/69571169/206563.ts
+http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/88.ts
 
 
 #EXTINF:-1 tvg-name="BAND SPORTS" tvg-logo="https://mondrian.claro.com.br/brands/channels/band-sports.png" group-title="ESPORTES",BAND SPORTS
