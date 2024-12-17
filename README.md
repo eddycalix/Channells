@@ -36,8 +36,6 @@ http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/126.ts
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/143.ts
 #EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn.png" group-title="ESPORTES",ESPN 5
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/140.ts
-#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn.png" group-title="ESPORTES",ESPN 5
-http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/140.ts
 #EXTINF:-1 tvg-name="PREMIERE 1" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.png" group-title="ESPORTES",PREMIERE 1
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/164.ts
 #EXTINF:-1 tvg-name="PREMIERE 2" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.png" group-title="ESPORTES",PREMIERE 2
