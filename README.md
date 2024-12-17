@@ -1,6 +1,4 @@
 #EXTM3U
-
-<!--Atualizado 17-12-2024 --!>
  
 #EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://mondrian.claro.com.br/channels/default/cultura.png" group-title="ABERTOS",TV CULTURA
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/547.ts
