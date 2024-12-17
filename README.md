@@ -128,7 +128,7 @@ http://authxplus-2.xyz:2095/live/Tourobox1-YBzZz3tgVl/iQSbEiDgzj/68.ts
 http://authxplus-2.xyz:2095/live/Tourobox1-YBzZz3tgVl/iQSbEiDgzj/72.ts
 #EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="https://www.oi.com.br/publicV2/channels/discovery-theater.png" group-title="VARIEDADES",DISCOVERY THEATER 
 http://authxplus-2.xyz:2095/live/Tourobox1-YBzZz3tgVl/iQSbEiDgzj/74.ts
-#EXTINF:-1 tvg-name="DISCOVERY WORLD" tvg-logo="https://www.oi.com.br/publicV2/channels/discovery-theater.png" group-title="VARIEDADES",DISCOVERY WORLD
+#EXTINF:-1 tvg-name="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/640px-World_Discovery_HD_logo.svg.png"  group-title="VARIEDADES",DISCOVERY WORLD
 http://authxplus-2.xyz:2095/live/Tourobox1-YBzZz3tgVl/iQSbEiDgzj/78.ts
 #EXTINF:-1 tvg-name="DOG TV" tvg-logo="https://www.dogtv.com/hubfs/DOGTVFeatured-1.jpg" group-title="VARIEDADES",DOG TV
 http://authxplus-2.xyz:2095/live/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/879.ts
