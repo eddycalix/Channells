@@ -106,7 +106,7 @@ http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/352.ts
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/358.ts
 #EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://www.oi.com.br/publicV2/channels/nickelodeon-hd.png" group-title="INFANTIL",NICKELODEON 
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/768.ts
-#EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://www.oi.com.br/publicV2/channels/nickelodeon-hd.png" group-title="INFANTIL",NICKELODEON 
+#EXTINF:-1 tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="INFANTIL",NICK JR
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/364.ts
 #EXTINF:-1 tvg-name="TOONCAST" tvg-logo="https://www.oi.com.br/publicV2/channels/toon-cast.png" group-title="INFANTIL",TOONCAST 
 http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/17997.ts
