@@ -5,7 +5,7 @@ http://singapore2-pass-cdn.com:80/live/messias102030/102030405/90.ts
 #EXTINF:-1 tvg-name="GLOBO RJ" tvg-logo="https://mondrian.claro.com.br/channels/default/globo.png" group-title="ABERTOS",GLOBO RJ
 http://singapore2-pass-cdn.com:80/live/messias102030/102030405/427.ts
 #EXTINF:-1 tvg-name="REDE TV" tvg-logo="https://mondrian.claro.com.br/brands/channels/redetv!.png" group-title="ABERTOS",REDE TV!
-http://brxsrv.online:80/live/63749087/79170378/33455.ts
+https://live-b.cf.dmcdn.net/sec2(c6xwr3oTWIfbpB63DIxNAIUwU9bLdcUSz-4JWgHOYsnR3DfYRhXtlGXTsSS_a86M0UMCps0fHjIl_w9iuIsQ2I9qHAF481eEQ-ouKmjZtEvziPJBJBc4laAv99IIcUI8)/dm/3/x8xps0s/d/live-480.m3u8#cell=lcfb
 #EXTINF:-1 tvg-name="BAND RIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Band_logo_wordmark_2010.png" group-title="ABERTOS",BAND RIO
 http://xvideos.tlonp.in:80/live/58457955/69571169/206761.ts
 #EXTINF:-1 tvg-name="SBT " tvg-logo="https://mondrian.claro.com.br/brands/channels/sbt.png" group-title="ABERTOS",SBT
