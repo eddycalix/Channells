@@ -11,14 +11,12 @@ http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/540.ts
 #EXTINF:-1 tvg-name="RECORD" tvg-logo="https://mondrian.claro.com.br/channels/default/record-tv.png" group-title="ABERTOS",REDE RECORD
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/527.ts
 
-
 #EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-logo="https://mondrian.claro.com.br/channels/default/history-channel.png" group-title="CULTURA",HISTORY CHANNEL
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/82.ts
 #EXTINF:-1 tvg-name="HISTORY CHANNEL2" tvg-logo="https://mondrian.claro.com.br/brands/channels/history-channel-2.png" group-title="CULTURA",HISTORY CHANNEL2
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/81.ts
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://mondrian.claro.com.br/brands/channels/national-geographic.png" group-title="CULTURA",NATIONAL GEOGRAPHIC
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/88.ts
-
 
 #EXTINF:-1 tvg-name="BAND SPORTS" tvg-logo="https://mondrian.claro.com.br/brands/channels/band-sports.png" group-title="ESPORTES",BAND SPORTS
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/121.ts
@@ -57,8 +55,6 @@ http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/172.ts
 #EXTINF:- tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="ESPORTES",SPORTV 3 
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/175.ts
 
-
-
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png" group-title="FILMES E SERIES",AXN 
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/233.ts
 #EXTINF:-1 tvg-name="COMEDY CENTRAL" tvg-logo="https://www.oi.com.br/publicV2/channels/comedy-central.png" group-title="FILMES E SERIES",COMEDY CENTRAL 
@@ -77,8 +73,6 @@ http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/238.ts
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/313.ts
 #EXTINF:-1 tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/702px-Universal_Channel_Brasil.svg.png" group-title="FILMES E SERIES",UNIVERSAL TV
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/319.ts
-
-
 
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://www.oi.com.br/publicV2/channels/hbo.png" group-title="FILMES",HBO
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/255.ts
