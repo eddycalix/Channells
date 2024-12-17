@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://mondrian.claro.com.br/channels/default/cultura.png" group-title="ABERTOS",TV CULTURA
 http://singapore2-pass-cdn.com:80/live/messias102030/102030405/90.ts
 #EXTINF:-1 tvg-name="GLOBO RJ" tvg-logo="https://mondrian.claro.com.br/channels/default/globo.png" group-title="ABERTOS",GLOBO RJ
-http://xvideos.tlonp.in:80/live/58457955/69571169/441196.ts
+http://singapore2-pass-cdn.com:80/live/messias102030/102030405/392.ts
 #EXTINF:-1 tvg-name="REDE TV" tvg-logo="https://mondrian.claro.com.br/brands/channels/redetv!.png" group-title="ABERTOS",REDE TV!
 http://xvideos.tlonp.in:80/live/58457955/69571169/206745.ts
 #EXTINF:-1 tvg-name="BAND RIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Band_logo_wordmark_2010.png" group-title="ABERTOS",BAND RIO
