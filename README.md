@@ -1,7 +1,7 @@
 #EXTM3U
  
 #EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://mondrian.claro.com.br/channels/default/cultura.png" group-title="ABERTOS",TV CULTURA
-http://xvideos.tlonp.in:80/live/58457955/69571169/441546.ts
+http://singapore2-pass-cdn.com:80/live/messias102030/102030405/90.ts
 #EXTINF:-1 tvg-name="GLOBO RJ" tvg-logo="https://mondrian.claro.com.br/channels/default/globo.png" group-title="ABERTOS",GLOBO RJ
 http://xvideos.tlonp.in:80/live/58457955/69571169/441196.ts
 #EXTINF:-1 tvg-name="REDE TV" tvg-logo="https://mondrian.claro.com.br/brands/channels/redetv!.png" group-title="ABERTOS",REDE TV!
