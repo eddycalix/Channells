@@ -48,9 +48,9 @@ http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/160.ts
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/162.ts
 #EXTINF:-1 tvg-name="SPORTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="ESPORTES",SPORTV 1
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/183.ts
-#EXTINF:-1 tvg-name="SPORTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="ESPORTES",SPORTV 1
+#EXTINF:-1 tvg-name="SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="ESPORTES",SPORTV 2
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/172.ts
-#EXTINF:- tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="ESPORTES",SPORTV 3 
+#EXTINF:-1 tvg-name="SPORTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="ESPORTES",SPORTV 1 
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/175.ts
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png" group-title="FILMES E SERIES",AXN 
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/233.ts
