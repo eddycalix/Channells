@@ -109,7 +109,7 @@ http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/768.ts
 #EXTINF:-1 tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="INFANTIL",NICK JR
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/364.ts
 #EXTINF:-1 tvg-name="TOONCAST" tvg-logo="https://www.oi.com.br/publicV2/channels/toon-cast.png" group-title="INFANTIL",TOONCAST 
-http://4tv.site:80/live/TEONETOiptv2022/TEOiptv20221020305544332211/17997.ts
+http://studioopera.in:80/live/27996878506matildes2/m4rupnw1cv/81780.ts
 #EXTINF:-1 tvg-name="TV RA TIM BUM" tvg-logo="https://www.oi.com.br/publicV2/channels/tv-ra-tim-bum.png" group-title="INFANTIL",TV RA TIM BUM 
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/557.ts
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE" tvg-logo="https://www.oi.com.br/publicV2/channels/mtv-live.png" group-title="MUSICA",MTV LIVE
